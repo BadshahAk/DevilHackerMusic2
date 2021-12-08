@@ -92,7 +92,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: 👑ᵛ͢ᵎᵖ𝄟⏤͟͟͞͞⃝🇮🇳𝐋𝐄𝐆𝐄𝐍𝐃◄⏤͟͞❀͢❱ ⃟𝐑𝐀𝐉༽༎͢ (@JaiHindChatting)",
+        f"Powered By: 👑ᵛ͢ᵎᵖ𝄟⏤͟͟͞͞⃝🇮🇳𝐋𝐄𝐆𝐄𝐍𝐃◄⏤͟͞❀͢❱ ⃟𝐑𝐀𝐉༽༎͢ (@Its_pandit_boy)",
         (255, 255, 255),
         font=font,
     )
